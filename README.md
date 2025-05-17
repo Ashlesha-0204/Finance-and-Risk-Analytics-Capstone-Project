@@ -1,6 +1,6 @@
-# 📊 Portfolio Management Using Stock Market Analysis
+## 📊 Portfolio Management Using Stock Market Analysis
 
-## 📌 Overview
+### 📌 Overview
 
 Analyze and evaluate a portfolio of NYSE-listed stocks to provide investment guidance tailored to two clients with distinct financial goals:
 
@@ -11,7 +11,7 @@ The goal is to recommend suitable stock portfolios aligned with their risk profi
 
 ---
 
-## 📈 Business Problems to Solve
+### 📈 Business Problems to Solve
 
 - Assist investors in making informed decisions without market expertise.
 - Identify high-performing stocks using risk-return metrics and sector trends.
@@ -20,7 +20,7 @@ The goal is to recommend suitable stock portfolios aligned with their risk profi
 
 ---
 
-## 🧠 Key Features
+### 🧠 Key Features
 
 - **Data Cleaning & EDA**: Handled missing values and outliers; adjusted FB data post-2012 listing.
 - **Performance Metrics**: Analyzed daily/cumulative returns, Sharpe ratio, ROI, and portfolio risk.
@@ -31,7 +31,7 @@ The goal is to recommend suitable stock portfolios aligned with their risk profi
 
 ---
 
-## 🧰 Tools Used
+### 🧰 Tools Used
 
 - **Python**: Data handling and computation  
   - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
