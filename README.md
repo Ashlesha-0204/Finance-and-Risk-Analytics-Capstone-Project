@@ -37,7 +37,6 @@ The goal is to recommend suitable stock portfolios aligned with their risk profi
   - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
 - **Tableau**: Interactive data visualizations
 - **Jupyter Notebook**: Code development
-- **Excel** (if applicable): Supplementary analysis
 - **Video + Report**: Final presentation and storytelling
 
 ---
